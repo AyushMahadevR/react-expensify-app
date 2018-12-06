@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Devil\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Devil\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Devil\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\Devil\AppData\Local\Microsoft\WindowsApps;C:\Users\Devil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Devil\AppData\Roaming\npm;C:\Data\Software\PHP 7;C:\adb;C:\Users\Devil\AppData\Local\Microsoft\WindowsApps;C:\Users\Devil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Devil\AppData\Roaming\npm;C:\Data\Software\PHP 7;C:\Users\Devil\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.10.1
+
+Node version: 
+  8.12.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\Devil\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:86893:59)
+      at Object.<anonymous> (C:\Users\Devil\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:79585:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Devil\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\Devil\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
