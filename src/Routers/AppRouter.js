@@ -5,7 +5,7 @@ import AddExpensePage from '../Components/AddExpensePage';
 import EditExpensePage from '../Components/EditExpensePage';
 import HelpPage from '../Components/HelpPage';
 import NotFoundPage from '../Components/NotFoundPage';
-import Header from '../Components/header';
+import Header from '../Components/Header';
 
 
 const AppRouter = () => (
